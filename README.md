@@ -13,12 +13,12 @@ Steganography is a Python-based application that allows users to hide and retrie
 
 Make sure you have the following dependencies installed:
 
-  **pip install pillow stegano**
+  `pip install pillow stegano`
 
 ## How To Use
 
 - Run the Data-hide.py script:
-  **python Data-hide.py**
+`python Data-hide.py`
 - Click Open Image to select an image file.
 - Enter the secret message in the text box.
 - Click Hide Data to encode the message into the image.
